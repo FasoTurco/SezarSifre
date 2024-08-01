@@ -11,7 +11,7 @@ Bu Uygulama İçerşinde Birden Fazla Özellik ile Birden Fazla Metin Şifrelene
 3. Eğer Kaç kaydırma Sayısı Yaptığınızı Bilmiyorsanız Bu Şeçeneği Kullanabilirsiniz program otomatikmen Brute Force Saldırısı Yaparak Dosyayı çözer
 4. Hakkında kısmı yapımcı hakkında yani benim hakkında bilgilere ulaşırsınız.
 
-## Content
+## İletişim & Destek
 
 * [**Telegram Grubumuz**](https://t.me/HilalYazilim) - Buradan Telegram Grubumuza Katılabilirsiniz
 * [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fasoturco)
